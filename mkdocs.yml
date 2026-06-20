@@ -8,6 +8,6 @@ extra_css:
   - stylesheets/custom.css
 nav:
   - Strona Główna i Temat: index.md
-  - Teoria Biegowa: tresc.md
+  - Teoria Biegowa: teoria.md
   - Przykłady Treningów: przyklady.md
   - Autorzy i Organizacja: autorzy.md
