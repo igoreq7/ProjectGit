@@ -1,4 +1,54 @@
+/* --- ZAAWANSOWANE NAGŁÓWKI --- */
+/* Dodajemy nowoczesny gradient pod głównym nagłówkiem zamiast zwykłej linii */
 h1 {
   color: #1a237e;
-  border-bottom: 2px solid #03a9f4;
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(to right, #03a9f4, transparent);
+  border-image-slice: 1;
+  padding-bottom: 10px;
+}
+
+/* Jasny kolor nagłówka, gdy użytkownik włączy tryb ciemny */
+[data-md-color-scheme="slate"] h1 {
+  color: #ffffff;
+}
+
+/* --- PROFESJONALNE OBRAZKI --- */
+/* Każdy wstawiony obrazek otrzyma zaokrąglone rogi, subtelny cień i efekt powiększenia po najechaniu myszką */
+.md-typeset img {
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: block;
+  margin: 0 auto; /* Wyśrodkowanie obrazków */
+}
+
+.md-typeset img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* --- STYLIZACJA TABEL --- */
+/* Zwykłe tabele zyskają tło w nagłówkach i zaokrąglone krawędzie (tzw. Card View) */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+.md-typeset table:not([class]) td {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
