@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03c0d44d-1907-49a0-b660-fba5a29cd1b4" name="Changes" comment="Dodanie plików mkdocs">
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    <list default="true" id="03c0d44d-1907-49a0-b660-fba5a29cd1b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/autorzy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/autorzy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/przyklady/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/przyklady/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/stylesheets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/stylesheets/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/teoria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/teoria/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

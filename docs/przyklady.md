@@ -1,23 +1,31 @@
-# 🛠️ Przykłady i Ściągawki
+# Przykłady Jednostek Treningowych
 
-Poniżej znajdziesz praktyczne przykłady wykorzystania narzędzi, o których mówiliśmy w sekcji teoretycznej.
+Poniżej przedstawiamy przykłady kluczowych jednostek treningowych stosowanych przez zawodników na dystansach 800-1500m.
 
-## Podstawowe komendy Git
+## 1. Wytrzymałość Szybkościowa (Tempo Runs / Interwały)
+Celem tego treningu jest nauczenie organizmu pracy przy wysokim stężeniu kwasu mlekowego.
 
-Oto ściągawka z najważniejszych komend, których używaliśmy do stworzenia tego projektu:
+* **Dla kogo:** Zaawansowani (przygotowanie do startu docelowego).
+* **Przykład dla 800m:** 
+  * 6 x 200 metrów w tempie startowym na 800m.
+  * Przerwa: 2 minuty marszu pomiędzy odcinkami.
+* **Przykład dla 1500m:**
+  * 10 x 400 metrów w tempie startowym na 1500m.
+  * Przerwa: 60-90 sekund truchtu.
 
-```bash
-# 1. Inicjalizacja nowego, lokalnego repozytorium
-git init
+## 2. Zabawa Biegowa (Fartlek)
+Trening o zmiennym tempie, idealny na budowanie bazy przed sezonem, wykonywany w terenie (las, park) zamiast na bieżni.
 
-# 2. Sprawdzenie statusu zmienionych plików
-git status
+* **Przykład (Piramida):**
+  * 10 minut spokojnej rozgrzewki.
+  * Zmiany tempa: 1 min szybko / 1 min wolno, 2 min szybko / 2 min wolno, 3 min szybko / 3 min wolno, a następnie powrót "w dół" piramidy (2 min, 1 min).
+  * 10 minut schłodzenia (trucht).
 
-# 3. Dodanie wszystkich zmian do przechowalni (Staging Area)
-git add .
+## 3. Siła Biegowa (Podbiegi)
+Buduje siłę mięśni nóg, dynamikę odbicia oraz poprawia technikę kroku biegowego.
 
-# 4. Zapisanie zmian w historii z czytelnym komentarzem
-git commit -m "feat: dodano stronę z przykładami"
-
-# 5. Wysłanie lokalnych zmian na serwer zewnętrzny (np. GitHub/GitLab)
-git push origin main
+* **Wykonanie:**
+  * Znajdź wzniesienie o łagodnym nachyleniu (ok. 5-8%).
+  * Wykonaj 10 dynamicznych podbiegów trwających 15-20 sekund.
+  * Wracaj na start spokojnym marszem (pełen wypoczynek przed kolejnym powtórzeniem).
+  * Zwróć szczególną uwagę na wysoką pracę kolan i aktywną pracę rąk.

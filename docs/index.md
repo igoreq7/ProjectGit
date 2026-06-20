@@ -1,17 +1,18 @@
-# 🚀 Witaj w Mini-kursie: Podstawy Markdown i Git
+# Vademecum Biegacza Średniodystansowego
 
-Współczesne wytwarzanie oprogramowania to nie tylko pisanie kodu, ale również efektywna komunikacja i tworzenie czytelnej dokumentacji. Ten projekt został stworzony, aby wprowadzić Cię w świat **Docs-as-Code** (Dokumentacji jako Kodu).
+Witamy w oficjalnej dokumentacji szkoleniowej poświęconej biegom na średnich dystansach!
 
-## 🎯 Cel projektu
-Naszym celem jest pokazanie, jak za pomocą prostych i darmowych narzędzi można tworzyć piękne, wersjonowane i łatwe w utrzymaniu bazy wiedzy. 
+## Temat projektu
+Projekt ten stanowi kompleksowy **kurs i instrukcję** dla początkujących oraz średniozaawansowanych lekkoatletów. Naszym celem jest zebranie w jednym miejscu wiedzy niezbędnej do rozpoczęcia świadomego i bezpiecznego treningu na dystansach od 800 do 3000 metrów. Dokumentacja ta powstała w ramach projektu zaliczeniowego z uwzględnieniem podziału na logiczne części[cite: 1].
 
-> *"Dokumentacja jest jak seks: kiedy jest dobra, jest bardzo, bardzo dobra; kiedy jest zła, i tak jest lepsza niż żadna."* — Dick Brandon
+## Czym są biegi średniodystansowe?
+Biegi średniodystansowe to jedne z najbardziej wymagających konkurencji lekkoatletycznych. Wymagają one unikalnego połączenia dwóch sprzecznych ze sobą cech motorycznych:
+* **Szybkości i dynamiki** (charakterystycznych dla sprintów).
+* **Wytrzymałości tlenowej** (niezbędnej w biegach długodystansowych).
 
-## Co znajdziesz w tym kursie?
+Najpopularniejsze dystanse w tej kategorii to:
+* **800 metrów** (dwa okrążenia standardowej bieżni) – niezwykle brutalny dystans, biegany niemal w całości na maksymalnym zakwaszeniu.
+* **1500 metrów** (tzw. "metryczna mila") – dystans wymagający doskonałej taktyki, wyczucia tempa i potężnego finiszu.
+* **3000 metrów** (oraz 3000 m z przeszkodami) – konkurencja łącząca średni i długi dystans, gdzie kluczowa staje się ekonomia biegu.
 
-1. **Teoria** - Zrozumiesz, dlaczego używamy systemów kontroli wersji i jak działa Git.
-2. **Przykłady** - Otrzymasz gotowe do użycia komendy i ściągawki ze składni Markdown.
-3. **Praktyka** - Zobaczysz, jak wygląda profesjonalnie sformatowana strona oparta na MkDocs.
-
----
-**Status projektu:** `Aktywny` | **Wersja:** `1.0.0`
+Zapraszamy do działów **Teoria** oraz **Przykłady**, aby zgłębić wiedzę o fizjologii wysiłku i poznać konkretne jednostki treningowe.

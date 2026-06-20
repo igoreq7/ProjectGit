@@ -1,17 +1,22 @@
-# 📚 Teoria: Fundamenty nowoczesnej pracy
+# Teoria - Fizjologia i Mechanika Biegu
 
-Aby w pełni wykorzystać potencjał naszego kursu, musimy zrozumieć dwa kluczowe pojęcia: **Systemy Kontroli Wersji** oraz język znaczników **Markdown**.
+Zrozumienie procesów zachodzących w organizmie podczas wysiłku pozwala na zoptymalizowanie treningu i unikanie kontuzji. W tej sekcji omawiamy fundamentalne pojęcia.
 
-## 1. Czym jest Git?
-Git to rozproszony system kontroli wersji. Oznacza to, że nie tylko główny serwer posiada pełną historię projektu, ale również każdy programista ma jej kompletną kopię na swoim komputerze.
+## Systemy Energetyczne
 
-**Największe zalety Gita:**
-* 🛡️ **Bezpieczeństwo:** Jeśli serwer padnie, każdy deweloper ma kopię zapasową całego projektu.
-* ⚡ **Szybkość:** Większość operacji (jak przeglądanie historii czy tworzenie gałęzi) odbywa się lokalnie, bez dostępu do Internetu.
-* 🔀 **Rozgałęzienia (Branching):** Możesz bezpiecznie eksperymentować w izolowanym środowisku bez psucia głównego kodu.
+Podczas biegu na średnich dystansach organizm korzysta z dwóch głównych szlaków metabolicznych:
 
-## 2. Co to jest Markdown?
-Markdown to lekki język znaczników, stworzony przez Johna Grubera. Służy do formatowania tekstu za pomocą zwykłych znaków (jak gwiazdki czy płotki), bez konieczności klikania przycisków w edytorach takich jak Word.
+1. **Przemiany beztlenowe (anaerobowe):**
+   Główne źródło energii na dystansie 800m. Organizm produkuje energię bez udziału tlenu, co prowadzi do gwałtownego gromadzenia się kwasu mlekowego we krwi. Trenowanie tego systemu pozwala na znoszenie narastającego bólu mięśni i utrzymanie wysokiej prędkości na finiszu.
+2. **Przemiany tlenowe (aerobowe):**
+   Fundament każdego biegacza. Kształtowane poprzez długie, spokojne wybiegania (tzw. bazę tlenową). Im lepsza wydolność tlenowa, tym organizm skuteczniej utylizuje kwas mlekowy podczas szybszego biegu. Na dystansie 1500m system tlenowy dostarcza już ponad połowę całkowitej energii.
 
-## 3. Podejście "Docs-as-Code"
-To nowoczesna filozofia zarządzania dokumentacją techniczną. Zamiast pisać pliki Word i wysyłać je mailem, dokumentację piszemy w Markdown i trzymamy ją w repozytorium Git – dokładnie tak samo, jak kod źródłowy aplikacji!
+## Pułap Tlenowy (VO2max)
+Kluczowy parametr w sportach wytrzymałościowych. Oznacza maksymalną ilość tlenu, jaką organizm potrafi pochłonąć w ciągu minuty (najczęściej podawany w mililitrach na kilogram masy ciała na minutę). Zawodnicy biegający na średnich dystansach posiadają jedne z najwyższych wskaźników VO2max.
+
+## Znaczenie Taktyki (Pacing)
+W przeciwieństwie do sprintów, gdzie biegnie się "ile sił w nogach" od samego startu, w biegach średniodystansowych kluczowy jest tzw. *pacing* (rozkładanie sił).
+* **Negative Split:** Przebiegnięcie drugiej połowy dystansu szybciej niż pierwszej. Często stosowane w wyścigach mistrzowskich.
+* **Even Split:** Utrzymywanie idealnie równego tempa przez cały dystans, uznawane za najbardziej efektywną metodę bicia rekordów życiowych.
+
+> **Ważne:** Na bieżni (szczególnie na 800m i 1500m) ogromne znaczenie ma również unikanie biegania po zewnętrznych torach (nadkładanie dystansu) oraz tzw. zamykania w "pudełku" (bycia otoczonym przez innych zawodników bez możliwości przyspieszenia).
